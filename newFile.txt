@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+Zmiana nr 1
 xxxxxxxx
 =======
 hgjgjgj
